@@ -157,9 +157,6 @@ aside {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.411);
 }
 
-aside > p {
-    padding: 10px 10px 10px 10px ;
-}
 
 aside > h1 {
     background: var(--cor4);
